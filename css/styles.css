@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to right, rgb(242, 239, 239) , rgb(49, 44, 46));
+
+}
+hr{
+    border-color: black;
+    border-style: dashed;
+    border-width: 3px;
+    width: 5%;
+}
